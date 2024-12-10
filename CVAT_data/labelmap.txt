@@ -1,0 +1,4 @@
+# label:color_rgb:parts:actions
+background:0,0,0::
+Specimen:128,0,0::
+Sample:0,128,0::
